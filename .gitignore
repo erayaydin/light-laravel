@@ -1,0 +1,19 @@
+### Composer ###
+composer.phar
+/vendor/
+composer.lock
+
+### Laravel ###
+public/storage
+public/hot
+storage/*.key
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+
+### Linux ###
+*~
+
+### PHPStorm ###
+/.idea/
